@@ -1,0 +1,115 @@
+\BOOKMARK [0][-]{chapter.0}{0 Why study quantum physics?}{}% 1
+\BOOKMARK [-1][-]{part.1}{I Introduction to quantum mechanics}{}% 2
+\BOOKMARK [0][-]{chapter.1}{1 Experimental background}{part.1}% 3
+\BOOKMARK [1][-]{section.1.1}{1.1 The photoelectric effect}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{1.2 Waves - a brief summary.}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 The wave equation}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 Solution by separation of variables}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Superposition}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{1.3 Double-slit experiment: a qualitative description.}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.4}{1.4 Linear Polarization}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Spectral Decomposition}{section.1.4}% 11
+\BOOKMARK [1][-]{section.1.5}{1.5 de Broglie Principle.}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{2 The Schr\366dinger equation}{part.1}% 13
+\BOOKMARK [1][-]{section.2.1}{2.1 Fourier Transform.}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Definition}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Delta functions}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Application to the wave equation}{section.2.1}% 17
+\BOOKMARK [1][-]{section.2.2}{2.2 The Schr\366dinger equation}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Free particle}{section.2.2}% 19
+\BOOKMARK [1][-]{section.2.3}{2.3 Probability and normalization}{chapter.2}% 20
+\BOOKMARK [0][-]{chapter.3}{3 Uncertainty principle}{part.1}% 21
+\BOOKMARK [1][-]{section.3.1}{3.1 Wave packet description of a free particle.}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.2}{3.2 Uncertainty principle for a wave packet.}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.3}{3.3 Time independent Schr\366dinger equation}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{4 Particle in a potential well}{part.1}% 25
+\BOOKMARK [1][-]{section.4.1}{4.1 An infinite potential well in one dimension}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Quantization}{section.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Normalization}{section.4.1}% 28
+\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Time evolution}{section.4.1}% 29
+\BOOKMARK [1][-]{section.4.2}{4.2 Scattering from a potential step}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 E>V0, particle comes from the left}{section.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 E<V0, particle comes from the left}{section.4.2}% 32
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 E>V0, particle comes from the right}{section.4.2}% 33
+\BOOKMARK [1][-]{section.4.3}{4.3 Tunneling}{chapter.4}% 34
+\BOOKMARK [0][-]{chapter.5}{5 Energy states, degeneracy, fermion statistics}{part.1}% 35
+\BOOKMARK [1][-]{section.5.1}{5.1 Infinite well in higher dimensions}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.2}{5.2 Definition of degeneracy}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.3}{5.3 Periodic boundary conditions}{chapter.5}% 38
+\BOOKMARK [1][-]{section.5.4}{5.4 Describing the quantum state}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.5}{5.5 Pauli exclusion principle}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.6}{5.6 Number of states}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.7}{5.7 Total Energy}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.8}{5.8 Fermi momentum}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.9}{5.9 Fermi Energy, Fermi-Dirac distribution}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.10}{5.10 Probability current}{chapter.5}% 45
+\BOOKMARK [-1][-]{part.2}{II The foundations of quantum mechanics}{}% 46
+\BOOKMARK [0][-]{chapter.6}{6 The basic concepts of quantum mechanics I}{part.2}% 47
+\BOOKMARK [1][-]{section.6.1}{6.1 Some linear algebra}{chapter.6}% 48
+\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Transpose vs. hermitian conjugate}{section.6.1}% 49
+\BOOKMARK [2][-]{subsection.6.1.2}{6.1.2 Hermitian and unitary operators}{section.6.1}% 50
+\BOOKMARK [2][-]{subsection.6.1.3}{6.1.3 Inner product of functions}{section.6.1}% 51
+\BOOKMARK [2][-]{subsection.6.1.4}{6.1.4 Delta functions: Dirac vs. Kronecker}{section.6.1}% 52
+\BOOKMARK [2][-]{subsection.6.1.5}{6.1.5 Dual vector spaces / dual basis}{section.6.1}% 53
+\BOOKMARK [1][-]{section.6.2}{6.2 Dirac bra-ket notation}{chapter.6}% 54
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Bra and Ket}{section.6.2}% 55
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Scalar product}{section.6.2}% 56
+\BOOKMARK [2][-]{subsection.6.2.3}{6.2.3 Projection, projection operators}{section.6.2}% 57
+\BOOKMARK [2][-]{subsection.6.2.4}{6.2.4 Completeness relation}{section.6.2}% 58
+\BOOKMARK [2][-]{subsection.6.2.5}{6.2.5 Operators}{section.6.2}% 59
+\BOOKMARK [1][-]{section.6.3}{6.3 Physical variables as operators}{chapter.6}% 60
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Representation of bras and kets}{section.6.3}% 61
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Representation of operators}{section.6.3}% 62
+\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 Back to linear polarization}{section.6.3}% 63
+\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 Momentum and position bases}{section.6.3}% 64
+\BOOKMARK [2][-]{subsection.6.3.5}{6.3.5 Momentum and position operators}{section.6.3}% 65
+\BOOKMARK [2][-]{subsection.6.3.6}{6.3.6 Commutation relations}{section.6.3}% 66
+\BOOKMARK [2][-]{subsection.6.3.7}{6.3.7 Sets of commuting variables}{section.6.3}% 67
+\BOOKMARK [0][-]{chapter.7}{7 The basic concepts of quantum mechanics II}{part.2}% 68
+\BOOKMARK [1][-]{section.7.1}{7.1 The Postulates of Quantum Mechanic}{chapter.7}% 69
+\BOOKMARK [2][-]{subsection.7.1.1}{7.1.1 Postulate I:}{section.7.1}% 70
+\BOOKMARK [2][-]{subsection.7.1.2}{7.1.2 Postulate II:}{section.7.1}% 71
+\BOOKMARK [2][-]{subsection.7.1.3}{7.1.3 Postulate III:}{section.7.1}% 72
+\BOOKMARK [2][-]{subsection.7.1.4}{7.1.4 Postulate IV: \(discrete non-degenerate spectrum\)}{section.7.1}% 73
+\BOOKMARK [2][-]{subsection.7.1.5}{7.1.5 Postulate V:}{section.7.1}% 74
+\BOOKMARK [2][-]{subsection.7.1.6}{7.1.6 Postulate VI:}{section.7.1}% 75
+\BOOKMARK [1][-]{section.7.2}{7.2 Hamiltonian}{chapter.7}% 76
+\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 Expectation value of the Hamiltonian}{section.7.2}% 77
+\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 Unitary evolution}{section.7.2}% 78
+\BOOKMARK [1][-]{section.7.3}{7.3 Expectation value}{chapter.7}% 79
+\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 Ehrenfest's Theorem}{section.7.3}% 80
+\BOOKMARK [2][-]{subsection.7.3.2}{7.3.2 Standard deviation and uncertainty}{section.7.3}% 81
+\BOOKMARK [1][-]{section.7.4}{7.4 Site system, position, translation}{chapter.7}% 82
+\BOOKMARK [0][-]{chapter.8}{8 Harmonic Oscillator}{part.2}% 83
+\BOOKMARK [1][-]{section.8.1}{8.1 Classical oscillator}{chapter.8}% 84
+\BOOKMARK [1][-]{section.8.2}{8.2 Quantum harmonic oscillator in one dimension}{chapter.8}% 85
+\BOOKMARK [2][-]{subsection.8.2.1}{8.2.1 Quantization}{section.8.2}% 86
+\BOOKMARK [2][-]{subsection.8.2.2}{8.2.2 Wavefunctions}{section.8.2}% 87
+\BOOKMARK [1][-]{section.8.3}{8.3 Raising or lowering operators}{chapter.8}% 88
+\BOOKMARK [2][-]{subsection.8.3.1}{8.3.1 Definition}{section.8.3}% 89
+\BOOKMARK [2][-]{subsection.8.3.2}{8.3.2 Hamiltonian}{section.8.3}% 90
+\BOOKMARK [2][-]{subsection.8.3.3}{8.3.3 N basis}{section.8.3}% 91
+\BOOKMARK [-1][-]{part.3}{III Introduction to solid state physics}{}% 92
+\BOOKMARK [0][-]{chapter.9}{9 Lattice}{part.3}% 93
+\BOOKMARK [1][-]{section.9.1}{9.1 Bravais lattice}{chapter.9}% 94
+\BOOKMARK [1][-]{section.9.2}{9.2 Primitive vectors, BCC, FCC}{chapter.9}% 95
+\BOOKMARK [1][-]{section.9.3}{9.3 Wigner-Seitz Primitive Cell}{chapter.9}% 96
+\BOOKMARK [1][-]{section.9.4}{9.4 The reciprocal lattice.}{chapter.9}% 97
+\BOOKMARK [2][-]{subsection.9.4.1}{9.4.1 Examples:}{section.9.4}% 98
+\BOOKMARK [0][-]{chapter.10}{10 Electrons in a periodic potential }{part.3}% 99
+\BOOKMARK [1][-]{section.10.1}{10.1 Bloch's theorem}{chapter.10}% 100
+\BOOKMARK [2][-]{subsection.10.1.1}{10.1.1 Crystal Momentum}{section.10.1}% 101
+\BOOKMARK [2][-]{subsection.10.1.2}{10.1.2 First Brillouin Zone}{section.10.1}% 102
+\BOOKMARK [2][-]{subsection.10.1.3}{10.1.3 The band index n}{section.10.1}% 103
+\BOOKMARK [2][-]{subsection.10.1.4}{10.1.4 Energy bands}{section.10.1}% 104
+\BOOKMARK [2][-]{subsection.10.1.5}{10.1.5 Comparison between free and Bloch electrons}{section.10.1}% 105
+\BOOKMARK [1][-]{section.10.2}{10.2 The Kronig-Penney model}{chapter.10}% 106
+\BOOKMARK [0][-]{chapter.11}{11 Energy gap}{part.3}% 107
+\BOOKMARK [1][-]{section.11.1}{11.1 Zones}{chapter.11}% 108
+\BOOKMARK [1][-]{section.11.2}{11.2 Metal vs. Insulator}{chapter.11}% 109
+\BOOKMARK [1][-]{section.11.3}{11.3 Measuring the gap, optical absorption}{chapter.11}% 110
+\BOOKMARK [1][-]{section.11.4}{11.4 Insulator vs. Semiconductor}{chapter.11}% 111
+\BOOKMARK [0][-]{chapter.12}{12 Conduction}{part.3}% 112
+\BOOKMARK [1][-]{section.12.1}{12.1 Drude - classically explaining conduction.}{chapter.12}% 113
+\BOOKMARK [1][-]{section.12.2}{12.2 The Hall Effect}{chapter.12}% 114
+\BOOKMARK [0][-]{chapter.13}{13 Summary}{part.3}% 115

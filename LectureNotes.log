@@ -1,0 +1,2192 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 FEB 2017 20:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**LectureNotes.tex
+(./LectureNotes.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./Textbook.cls
+Document Class: Textbook 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/changebar/changebar.sty
+Package: changebar 2005/09/18 v3.5c Indicate changes with marginal bars
+\cb@nextpoint=\count79
+\cb@topleft=\count80
+\cb@topright=\count81
+\cb@botleft=\count82
+\cb@botright=\count83
+\cb@cnta=\count84
+\cb@cntb=\count85
+\cb@dima=\dimen102
+\cb@curbarwd=\dimen103
+\cb@page=\count86
+\cb@pagecount=\count87
+\cb@odd@left=\dimen104
+\cb@odd@right=\dimen105
+\cb@even@left=\dimen106
+\cb@even@right=\dimen107
+\cb@writexy=\write3
+\cb@readxy=\read1
+\openout3 = `LectureNotes.cb2'.
+
+\changebarwidth=\skip41
+\deletebarwidth=\skip42
+\changebarsep=\skip43
+\c@changebargrey=\count88
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 144.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\cb@write=\write4
+\cb@read=\read2
+\openout4 = `LectureNotes.cb'.
+
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count90
+\c@chapter=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+\bibindent=\dimen108
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count99
+\cp@tempcnt=\count100
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mparhack/mparhack.sty
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen109
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks15
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks16
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks17
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count113
+\calc@Bcount=\count114
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count115
+\calc@Cskip=\skip51
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count116
+\l_MT_multwidth_dim=\dimen120
+\origjot=\skip52
+\l_MT_shortvdotswithinadjustabove_dim=\dimen121
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen122
+\l_MT_above_intertext_sep=\dimen123
+\l_MT_below_intertext_sep=\dimen124
+\l_MT_above_shortintertext_sep=\dimen125
+\l_MT_below_shortintertext_sep=\dimen126
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip53
+\f@ncyO@elh=\skip54
+\f@ncyO@erh=\skip55
+\f@ncyO@olh=\skip56
+\f@ncyO@orh=\skip57
+\f@ncyO@elf=\skip58
+\f@ncyO@erf=\skip59
+\f@ncyO@olf=\skip60
+\f@ncyO@orf=\skip61
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip62
+\RaggedLeftLeftskip=\skip63
+\RaggedRightLeftskip=\skip64
+\CenteringRightskip=\skip65
+\RaggedLeftRightskip=\skip66
+\RaggedRightRightskip=\skip67
+\CenteringParfillskip=\skip68
+\RaggedLeftParfillskip=\skip69
+\RaggedRightParfillskip=\skip70
+\JustifyingParfillskip=\skip71
+\CenteringParindent=\skip72
+\RaggedLeftParindent=\skip73
+\RaggedRightParindent=\skip74
+\JustifyingParindent=\skip75
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen129
+\captionmargin@=\dimen130
+\captionwidth=\dimen131
+\caption@tempdima=\dimen132
+\caption@indent=\dimen133
+\caption@parindent=\dimen134
+\caption@hangindent=\dimen135
+)
+\c@ContinuedFloat=\count117
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write5
+\integerpart=\count118
+\decimalpart=\count119
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write6
+\openout6 = `LectureNotes.idx'.
+
+
+Writing index file LectureNotes.idx
+(/usr/local/texlive/2016/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count120
+\c@@ppsavesec=\count121
+\c@@ppsaveapp=\count122
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count125
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4322
+.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4322.
+Package hyperref Info: Option `plainpages' set `false' on input line 4322.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4322.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count126
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen137
+\Fld@menulength=\count127
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring ON on input line 6316.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count128
+\c@Item=\count129
+\c@Hfootnote=\count130
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+\Fld@listcount=\count131
+\c@bookmark@seq@number=\count132
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip76
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen140
+\extrarowheight=\dimen141
+\NC@list=\toks20
+\extratabsurround=\skip77
+\backup@length=\skip78
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count133
+\FV@InFile=\read3
+\FV@TabBox=\box28
+\c@FancyVerbLine=\count134
+\FV@StepNumber=\count135
+\FV@OutFile=\write7
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count136
+\lst@gtempboxa=\box29
+\lst@token=\toks21
+\lst@length=\count137
+\lst@currlwidth=\dimen142
+\lst@column=\count138
+\lst@pos=\count139
+\lst@lostspace=\dimen143
+\lst@width=\dimen144
+\lst@newlines=\count140
+\lst@lineno=\count141
+\lst@maxwidth=\dimen145
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count142
+\lst@skipnumbers=\count143
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\lstFV@gtempboxa=\box31
+)
+\c@listingCtr=\count144
+\c@example=\count145
+\solutions=\write8
+\openout8 = `LectureNotes.sln'.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip79
+\cftbeforetoctitleskip=\skip80
+\cftaftertoctitleskip=\skip81
+\cftbeforepartskip=\skip82
+\cftpartnumwidth=\skip83
+\cftpartindent=\skip84
+\cftbeforechapskip=\skip85
+\cftchapindent=\skip86
+\cftchapnumwidth=\skip87
+\cftbeforesecskip=\skip88
+\cftsecindent=\skip89
+\cftsecnumwidth=\skip90
+\cftbeforesubsecskip=\skip91
+\cftsubsecindent=\skip92
+\cftsubsecnumwidth=\skip93
+\cftbeforesubsubsecskip=\skip94
+\cftsubsubsecindent=\skip95
+\cftsubsubsecnumwidth=\skip96
+\cftbeforeparaskip=\skip97
+\cftparaindent=\skip98
+\cftparanumwidth=\skip99
+\cftbeforesubparaskip=\skip100
+\cftsubparaindent=\skip101
+\cftsubparanumwidth=\skip102
+\cftbeforeloftitleskip=\skip103
+\cftafterloftitleskip=\skip104
+\cftbeforefigskip=\skip105
+\cftfigindent=\skip106
+\cftfignumwidth=\skip107
+\c@lofdepth=\count146
+\c@lotdepth=\count147
+\cftbeforelottitleskip=\skip108
+\cftafterlottitleskip=\skip109
+\cftbeforetabskip=\skip110
+\cfttabindent=\skip111
+\cfttabnumwidth=\skip112
+)
+\c@problem=\count148
+\cftbeforeproblemskip=\skip113
+\cftproblemindent=\skip114
+\cftproblemnumwidth=\skip115
+\c@prbdepth=\count149
+\cftbeforeprbtitleskip=\skip116
+\cftafterprbtitleskip=\skip117
+\c@subproblem=\count150
+\c@revprob=\count151
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
+\c@mn@abspage=\count152
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count153
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2016/02/27 v1.2a Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count154
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count155
+\pstFP@xia=\count156
+\pstFP@xib=\count157
+\pstFP@xfa=\count158
+\pstFP@xfb=\count159
+\pstFP@rega=\count160
+\pstFP@regb=\count161
+\pstFP@regs=\count162
+\pstFP@times=\count163
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen146
+\pgfutil@tempdimb=\dimen147
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks27
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen148
+\pgf@xa=\dimen149
+\pgf@xb=\dimen150
+\pgf@xc=\dimen151
+\pgf@y=\dimen152
+\pgf@ya=\dimen153
+\pgf@yb=\dimen154
+\pgf@yc=\dimen155
+\c@pgf@counta=\count164
+\c@pgf@countb=\count165
+\c@pgf@countc=\count166
+\c@pgf@countd=\count167
+\pgfutil@tempcnta=\count168
+\pgfutil@tempcntb=\count169
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen156
+\pgfmath@count=\count170
+\pgfmath@box=\box32
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count171
+))
+\pgffor@iter=\dimen157
+\pgffor@skip=\dimen158
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+)
+\psLoopIndex=\count172
+
+`PSTricks' v2.66  <2016/05/18> (tvz)
+\pst@dima=\dimen159
+\pst@dimb=\dimen160
+\pst@dimc=\dimen161
+\pst@dimd=\dimen162
+\pst@dimg=\dimen163
+\pst@dimh=\dimen164
+\pst@dimm=\dimen165
+\pst@dimn=\dimen166
+\pst@dimo=\dimen167
+\pst@dimp=\dimen168
+\pst@hbox=\box33
+\pst@ibox=\box34
+\pst@boxg=\box35
+\pst@cnta=\count173
+\pst@cntb=\count174
+\pst@cntc=\count175
+\pst@cntd=\count176
+\pst@cntg=\count177
+\pst@cnth=\count178
+\pst@cntm=\count179
+\pst@cntn=\count180
+\pst@cnto=\count181
+\pst@cntp=\count182
+\@zero=\count183
+\pst@toks=\toks33
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen169
+\psxunit=\dimen170
+\psyunit=\dimen171
+\pst@C@@rType=\count184
+\pslinewidth=\dimen172
+\psk@startLW=\dimen173
+\psk@endLW=\dimen174
+\pst@customdefs=\toks34
+\pslinearc=\dimen175
+\pst@symbolStep=\dimen176
+\pst@symbolWidth=\dimen177
+\pst@symbolLinewidth=\dimen178
+\everypsbox=\toks35
+\psframesep=\dimen179
+\pslabelsep=\dimen180
+\sh@wgridXunit=\dimen181
+\sh@wgridYunit=\dimen182
+\pst@shift=\dimen183
+)
+File: pstricks.tex 2016/05/18 v2.66 `PSTricks' (tvz,hv)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2016/05/18 v2.66 `PST-fp' (hv)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup9
+\symAMSb=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+\SC@BOXWD=\dimen184
+\SC@CAPWD=\dimen185
+\SC@tempdima=\dimen186
+\SC@tempdimb=\dimen187
+\c@SC@C=\count185
+\SC@BOX=\box36
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
+\c@DefaultLines=\count186
+\c@DefaultDepth=\count187
+\DefaultFindent=\dimen188
+\DefaultNindent=\dimen189
+\DefaultSlope=\dimen190
+\DiscardVskip=\dimen191
+\L@lbox=\box37
+\L@tbox=\box38
+\c@L@lines=\count188
+\c@L@depth=\count189
+\L@Pindent=\dimen192
+\L@Findent=\dimen193
+\L@Nindent=\dimen194
+\L@lraise=\dimen195
+\L@first=\dimen196
+\L@next=\dimen197
+\L@slope=\dimen198
+\L@height=\dimen199
+\L@novskip=\dimen256
+\LettrineWidth=\dimen257
+\LettrineHeight=\dimen258
+\LettrineDepth=\dimen259
+
+Loading lettrine.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen260
+\epsfysize=\dimen261
+)
+(./LectureNotes.aux)
+\openout1 = `LectureNotes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen262
+\scratchbox=\box39
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen263
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks37
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 51.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: sidecap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package caption Info: We need package `ragged2e' on input line 51.
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring ON on input line 51.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count196
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+(./LectureNotes.out) (./LectureNotes.out)
+\@outlinefile=\write9
+\openout9 = `LectureNotes.out'.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\c@lstlisting=\count197
+Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
+(marginnote)             Extended position detection mode activated.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/initials/MorrisIn.fd
+File: MorrisIn.fd 2003/04/02 Font definition file for U/MorrisIn
+)
+<Anna_cover_smj.jpg, id=466, 745.28438pt x 533.74406pt>
+File: Anna_cover_smj.jpg Graphic file (type jpg)
+
+<use Anna_cover_smj.jpg>
+Package pdftex.def Info: Anna_cover_smj.jpg used on input line 175.
+(pdftex.def)             Requested size: 483.69684pt x 346.40015pt.
+
+Overfull \hbox (28.45276pt too wide) in paragraph at lines 175--175
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 175.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Anna_
+cover_smj.jpg>] (./LectureNotes.toc [2] [3] [4]
+[5])
+\tf@toc=\write10
+\openout10 = `LectureNotes.toc'.
+
+ [6]
+Chapter 0.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 207.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [1
+
+
+] [2] [3]
+[4
+
+] <Anna1_smj.jpg, id=636, 123.5467pt x 85.05902pt>
+File: Anna1_smj.jpg Graphic file (type jpg)
+ <use Anna1_smj.jpg>
+Package pdftex.def Info: Anna1_smj.jpg used on input line 233.
+(pdftex.def)             Requested size: 341.43306pt x 235.09665pt.
+
+[5 <./Anna1_smj.jpg>] [6]
+Chapter 1.
+<Max_Planck_1933.jpg, id=646, 160.6pt x 199.74625pt>
+File: Max_Planck_1933.jpg Graphic file (type jpg)
+ <use Max_Planck_1933.jpg>
+Package pdftex.def Info: Max_Planck_1933.jpg used on input line 239.
+(pdftex.def)             Requested size: 160.5996pt x 199.74576pt.
+
+[7
+
+ <./Max_Planck_1933.jpg>]
+Package marginnote Info: Margin note 14.1 is on absolute page 14
+(marginnote)              on input line 245.
+
+
+Package xcolor Warning: Incompatible color definition on input line 245.
+
+Package marginnote Info: xpos seems to be 390.54485pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 245.
+
+Overfull \hbox (11.27489pt too wide) in paragraph at lines 246--249
+\OT1/cmr/m/n/10.95 with $\OML/cmm/m/it/10.95 ^^W$ \OT1/cmr/m/n/10.95 the fre-qu
+ency of the light, $\OML/cmm/m/it/10.95 h$ \OT1/cmr/m/n/10.95 a con-stant (late
+r called Planck's constant),$\OML/cmm/m/it/10.95 K$
+ []
+
+<photoelectric_effect.png, id=658, 220.825pt x 158.5925pt>
+File: photoelectric_effect.png Graphic file (type png)
+
+<use photoelectric_effect.png>
+Package pdftex.def Info: photoelectric_effect.png used on input line 250.
+(pdftex.def)             Requested size: 144.54pt x 103.80986pt.
+Package marginnote Info: Margin note 14.2 is on absolute page 14
+(marginnote)              on input line 254.
+
+
+Package xcolor Warning: Incompatible color definition on input line 254.
+
+Package marginnote Info: xpos seems to be 433.39658pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 254.
+[8 <./photoelectric_effect.png>]
+Package marginnote Info: Margin note 15.1 is on absolute page 15
+(marginnote)              on input line 264.
+Package marginnote Info: xpos seems to be 310.88242pt,
+(marginnote)             \marginnoterightadjust ignored on input line 264.
+
+
+Package xcolor Warning: Incompatible color definition on input line 264.
+
+
+Package xcolor Warning: Incompatible color definition on input line 274.
+
+
+Package xcolor Warning: Incompatible color definition on input line 283.
+
+[9]
+Package marginnote Info: Margin note 16.1 is on absolute page 16
+(marginnote)              on input line 298.
+
+
+Package xcolor Warning: Incompatible color definition on input line 298.
+
+Package marginnote Info: xpos seems to be 378.92743pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 298.
+
+Overfull \vbox (1.891pt too high) has occurred while \output is active []
+
+ [10]
+Package marginnote Info: Margin note 17.1 is on absolute page 17
+(marginnote)              on input line 303.
+Package marginnote Info: xpos seems to be 269.24132pt,
+(marginnote)             \marginnoterightadjust ignored on input line 303.
+
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+<Interference_of_two_waves.pdf, id=688, 321.2pt x 120.45pt>
+File: Interference_of_two_waves.pdf Graphic file (type pdf)
+
+<use Interference_of_two_waves.pdf>
+Package pdftex.def Info: Interference_of_two_waves.pdf used on input line 316.
+(pdftex.def)             Requested size: 284.52756pt x 106.70023pt.
+
+<single_slit_bothj.jpg, id=692, 722.7pt x 1204.0182pt>
+File: single_slit_bothj.jpg Graphic file (type jpg)
+
+<use single_slit_bothj.jpg>
+Package pdftex.def Info: single_slit_bothj.jpg used on input line 324.
+(pdftex.def)             Requested size: 144.54pt x 240.79938pt.
+ [11]
+<doubleslit_both.pdf, id=703, 722.7pt x 1204.5pt>
+File: doubleslit_both.pdf Graphic file (type pdf)
+ <use doubleslit_both.pdf>
+Package pdftex.def Info: doubleslit_both.pdf used on input line 336.
+(pdftex.def)             Requested size: 144.54pt x 240.89574pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+
+[12 <./Interference_of_two_waves.pdf> <./single_slit_bothj.jpg> <./doubleslit_b
+oth.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./doubleslit_both.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>]
+Package marginnote Info: Margin note 19.1 is on absolute page 19
+(marginnote)              on input line 352.
+Package marginnote Info: xpos seems to be 284.12706pt,
+(marginnote)             \marginnoterightadjust ignored on input line 352.
+
+
+Package xcolor Warning: Incompatible color definition on input line 352.
+
+[13] <Huygens.jpg, id=748, 160.6pt x 223.83624pt>
+File: Huygens.jpg Graphic file (type jpg)
+ <use Huygens.jpg>
+Package pdftex.def Info: Huygens.jpg used on input line 365.
+(pdftex.def)             Requested size: 160.5996pt x 223.8357pt.
+ [14 <./Huygens.jpg>]
+Package marginnote Info: Margin note 21.1 is on absolute page 21
+(marginnote)              on input line 383.
+Package marginnote Info: xpos seems to be 330.06187pt,
+(marginnote)             \marginnoterightadjust ignored on input line 383.
+
+
+Package xcolor Warning: Incompatible color definition on input line 383.
+
+<wire-grid-polarizer.png, id=758, 351.3125pt x 180.675pt>
+File: wire-grid-polarizer.png Graphic file (type png)
+
+<use wire-grid-polarizer.png>
+Package pdftex.def Info: wire-grid-polarizer.png used on input line 386.
+(pdftex.def)             Requested size: 144.54pt x 74.33636pt.
+ <Malus.jpg, id=761, 160.6pt x 217.81375pt>
+File: Malus.jpg Graphic file (type jpg)
+
+<use Malus.jpg>
+Package pdftex.def Info: Malus.jpg used on input line 413.
+(pdftex.def)             Requested size: 160.5996pt x 217.8132pt.
+ [15 <./wire-grid-polarizer.png>] [16 <./Malus.jpg>]
+Package marginnote Info: Margin note 23.1 is on absolute page 23
+(marginnote)              on input line 437.
+Package marginnote Info: xpos seems to be 306.43982pt,
+(marginnote)             \marginnoterightadjust ignored on input line 437.
+
+
+Package xcolor Warning: Incompatible color definition on input line 437.
+
+Package marginnote Info: Margin note 23.2 is on absolute page 23
+(marginnote)              on input line 448.
+Package marginnote Info: xpos seems to be 276.72794pt,
+(marginnote)             \marginnoterightadjust ignored on input line 448.
+
+Package xcolor Warning: Incompatible color definition on input line 448.
+
+<Broglie.jpg, id=779, 160.6pt x 204.765pt>
+File: Broglie.jpg Graphic file (type jpg)
+ <use Broglie.jpg>
+Package pdftex.def Info: Broglie.jpg used on input line 451.
+(pdftex.def)             Requested size: 160.5996pt x 204.76448pt.
+
+Overfull \vbox (2.54184pt too high) has occurred while \output is active []
+
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{equation.1
+.5.20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.452 
+      ] [18 <./Broglie.jpg>]
+Chapter 2.
+<Fourier.jpg, id=794, 160.6pt x 196.735pt>
+File: Fourier.jpg Graphic file (type jpg)
+ <use Fourier.jpg>
+Package pdftex.def Info: Fourier.jpg used on input line 456.
+(pdftex.def)             Requested size: 160.5996pt x 196.7345pt.
+Package marginnote Info: Margin note 25.1 is on absolute page 25
+(marginnote)              on input line 463.
+Package marginnote Info: xpos seems to be 319.43268pt,
+(marginnote)             \marginnoterightadjust ignored on input line 463.
+
+
+Package xcolor Warning: Incompatible color definition on input line 463.
+
+Package marginnote Info: Margin note 25.2 is on absolute page 26
+(marginnote)              on input line 474.
+
+Package xcolor Warning: Incompatible color definition on input line 474.
+
+Package marginnote Info: xpos seems to be 449.99019pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 474.
+[19
+
+ <./Fourier.jpg>] <Dirac.jpg, id=805, 160.6pt x 236.885pt>
+File: Dirac.jpg Graphic file (type jpg)
+ <use Dirac.jpg>
+Package pdftex.def Info: Dirac.jpg used on input line 477.
+(pdftex.def)             Requested size: 160.5996pt x 236.88441pt.
+
+<Schrodinger.jpg, id=807, 160.6pt x 208.78pt>
+File: Schrodinger.jpg Graphic file (type jpg)
+ <use Schrodinger.jpg>
+Package pdftex.def Info: Schrodinger.jpg used on input line 499.
+(pdftex.def)             Requested size: 160.5996pt x 208.77946pt.
+
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+[20 <./Dirac.jpg>] [21 <./Schrodinger.jpg>]
+Package marginnote Info: Margin note 28.1 is on absolute page 28
+(marginnote)              on input line 532.
+
+
+Package xcolor Warning: Incompatible color definition on input line 532.
+
+Package marginnote Info: xpos seems to be 462.8168pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 532.
+[22]
+Package marginnote Info: Margin note 29.1 is on absolute page 29
+(marginnote)              on input line 554.
+Package marginnote Info: xpos seems to be 288.06952pt,
+(marginnote)             \marginnoterightadjust ignored on input line 554.
+
+
+Package xcolor Warning: Incompatible color definition on input line 554.
+
+Package marginnote Info: Margin note 29.2 is on absolute page 29
+(marginnote)              on input line 562.
+Package marginnote Info: xpos seems to be 304.84277pt,
+(marginnote)             \marginnoterightadjust ignored on input line 562.
+
+Package xcolor Warning: Incompatible color definition on input line 562.
+
+[23] [24
+
+]
+Chapter 3.
+
+Overfull \hbox (2.12874pt too wide) in paragraph at lines 571--572
+[][]\OT1/cmr/m/n/10.95 t us re-examine our so-lu-tion for the free par-ti-cle S
+chr^^?odinger
+ []
+
+Package marginnote Info: Margin note 31.1 is on absolute page 31
+(marginnote)              on input line 575.
+Package marginnote Info: xpos seems to be 325.23537pt,
+(marginnote)             \marginnoterightadjust ignored on input line 575.
+
+Package xcolor Warning: Incompatible color definition on input line 575.
+
+[25] <Gauss.jpg, id=852, 160.6pt x 205.76875pt>
+File: Gauss.jpg Graphic file (type jpg)
+ <use Gauss.jpg>
+Package pdftex.def Info: Gauss.jpg used on input line 582.
+(pdftex.def)             Requested size: 160.5996pt x 205.76823pt.
+Package marginnote Info: Margin note 32.1 is on absolute page 33
+(marginnote)              on input line 598.
+Package marginnote Info: xpos seems to be 320.21922pt,
+(marginnote)             \marginnoterightadjust ignored on input line 598.
+
+
+Package xcolor Warning: Incompatible color definition on input line 598.
+
+[26 <./Gauss.jpg>] <gaussian_kspace.pdf, id=863, 614.295pt x 794.97pt>
+File: gaussian_kspace.pdf Graphic file (type pdf)
+
+<use gaussian_kspace.pdf>
+Package pdftex.def Info: gaussian_kspace.pdf used on input line 607.
+(pdftex.def)             Requested size: 144.54pt x 187.04845pt.
+
+<gaussian_realspace.pdf, id=864, 614.295pt x 794.97pt>
+File: gaussian_realspace.pdf Graphic file (type pdf)
+
+<use gaussian_realspace.pdf>
+Package pdftex.def Info: gaussian_realspace.pdf used on input line 632.
+(pdftex.def)             Requested size: 144.54pt x 187.04845pt.
+ [27 <./gaussian_kspace.pdf> <./gaussian_realspace.pdf>]
+Package marginnote Info: Margin note 34.1 is on absolute page 34
+(marginnote)              on input line 648.
+
+
+Package xcolor Warning: Incompatible color definition on input line 648.
+
+Package marginnote Info: xpos seems to be 387.81671pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 648.
+[28] <Heisenberg.jpg, id=915, 160.6pt x 254.9525pt>
+File: Heisenberg.jpg Graphic file (type jpg)
+ <use Heisenberg.jpg>
+Package pdftex.def Info: Heisenberg.jpg used on input line 657.
+(pdftex.def)             Requested size: 160.5996pt x 254.95186pt.
+
+[29 <./Heisenberg.jpg>] <Hamilton.jpg, id=921, 160.6pt x 220.825pt>
+File: Hamilton.jpg Graphic file (type jpg)
+
+<use Hamilton.jpg>
+Package pdftex.def Info: Hamilton.jpg used on input line 665.
+(pdftex.def)             Requested size: 160.5996pt x 220.82445pt.
+Package marginnote Info: Margin note 36.1 is on absolute page 36
+(marginnote)              on input line 682.
+
+
+Package xcolor Warning: Incompatible color definition on input line 682.
+
+Package marginnote Info: xpos seems to be 444.82707pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 682.
+Package marginnote Info: Margin note 36.2 is on absolute page 37
+(marginnote)              on input line 690.
+Package marginnote Info: xpos seems to be 312.64381pt,
+(marginnote)             \marginnoterightadjust ignored on input line 690.
+
+Package xcolor Warning: Incompatible color definition on input line 690.
+
+[30 <./Hamilton.jpg>]
+Package marginnote Info: Margin note 37.1 is on absolute page 37
+(marginnote)              on input line 694.
+Package marginnote Info: xpos seems to be 290.89735pt,
+(marginnote)             \marginnoterightadjust ignored on input line 694.
+
+
+Package xcolor Warning: Incompatible color definition on input line 694.
+
+Package marginnote Info: Margin note 37.2 is on absolute page 37
+(marginnote)              on input line 703.
+Package marginnote Info: xpos seems to be 311.33336pt,
+(marginnote)             \marginnoterightadjust ignored on input line 703.
+
+Package xcolor Warning: Incompatible color definition on input line 703.
+
+[31] [32]
+Chapter 4.
+[33
+
+]
+Package marginnote Info: Margin note 40.1 is on absolute page 40
+(marginnote)              on input line 740.
+
+
+Package xcolor Warning: Incompatible color definition on input line 740.
+
+Package marginnote Info: xpos seems to be 396.56383pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 740.
+Package marginnote Info: Margin note 40.2 is on absolute page 40
+(marginnote)              on input line 762.
+
+Package xcolor Warning: Incompatible color definition on input line 762.
+
+Package marginnote Info: xpos seems to be 392.81703pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 762.
+[34pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.1.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.766 \be
+         ] <particle_in_a_box_wavefun.pdf, id=964, 794.97pt x 614.295pt>
+File: particle_in_a_box_wavefun.pdf Graphic file (type pdf)
+
+<use particle_in_a_box_wavefun.pdf>
+Package pdftex.def Info: particle_in_a_box_wavefun.pdf used on input line 769.
+(pdftex.def)             Requested size: 144.54pt x 111.68375pt.
+Package marginnote Info: Margin note 41.1 is on absolute page 41
+(marginnote)              on input line 779.
+Package marginnote Info: xpos seems to be 304.51408pt,
+(marginnote)             \marginnoterightadjust ignored on input line 779.
+
+
+Package xcolor Warning: Incompatible color definition on input line 779.
+
+[35 <./particle_in_a_box_wavefun.pdf, page is rotated 90 degrees>]
+
+Package xcolor Warning: Incompatible color definition on input line 791.
+
+Package marginnote Info: Margin note 42.1 is on absolute page 42
+(marginnote)              on input line 802.
+
+Package xcolor Warning: Incompatible color definition on input line 802.
+
+Package marginnote Info: xpos seems to be 420.18884pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 802.
+[36]
+Overfull \hbox (7.01762pt too wide) in alignment at lines 826--830
+ [][][] []
+ []
+
+[37] <infinite_well_time_evolution.pdf, id=991, 260.17201pt x 170.00914pt>
+File: infinite_well_time_evolution.pdf Graphic file (type pdf)
+
+<use infinite_well_time_evolution.pdf>
+Package pdftex.def Info: infinite_well_time_evolution.pdf used on input line 84
+4.
+(pdftex.def)             Requested size: 284.52756pt x 185.93405pt.
+ [38 <./infinite_well_time_evolution.pdf>] <av_x_infinite_square_well.pdf, id=1
+009, 260.17201pt x 166.56628pt>
+File: av_x_infinite_square_well.pdf Graphic file (type pdf)
+
+<use av_x_infinite_square_well.pdf>
+Package pdftex.def Info: av_x_infinite_square_well.pdf used on input line 864.
+(pdftex.def)             Requested size: 284.52756pt x 182.1687pt.
+ [39 <./av_x_infinite_square_well.pdf>]
+[40pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.2.18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.898 \bea
+          pdfTeX warning (ext4): destination with the same identifier (name{equ
+ation.4.2.18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.898 \bea
+          ] [41]pdfTeX warning (ext4): destination with the same identifier (na
+me{equation.4.2.21}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.918 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.21}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.918 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.21}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.918 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.21}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.918 \be
+         
+Package marginnote Info: Margin note 48.1 is on absolute page 48
+(marginnote)              on input line 919.
+
+
+Package xcolor Warning: Incompatible color definition on input line 919.
+
+Package marginnote Info: xpos seems to be 476.51744pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 919.
+<square_barrier.pdf, id=1040, 260.17201pt x 160.84993pt>
+File: square_barrier.pdf Graphic file (type pdf)
+
+<use square_barrier.pdf>
+Package pdftex.def Info: square_barrier.pdf used on input line 943.
+(pdftex.def)             Requested size: 284.52756pt x 175.91689pt.
+ [42]pdfTeX warning (ext4): destination with the same identifier (name{equation
+.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.954 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.954 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.954 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.954 \be
+          [43 <./square_barrier.pdf>]pdfTeX warning (ext4): destination with th
+e same identifier (name{equation.4.2.23}) has been already used, duplicate igno
+red
+<to be read again> 
+                   \relax 
+l.961 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.961 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.961 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.961 \be
+         pdfTeX warning (ext4): destination with the same identifier (name{equa
+tion.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 \bea
+          pdfTeX warning (ext4): destination with the same identifier (name{equ
+ation.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 \bea
+          pdfTeX warning (ext4): destination with the same identifier (name{equ
+ation.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 \bea
+          pdfTeX warning (ext4): destination with the same identifier (name{equ
+ation.4.2.23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 \bea
+           [44] <tunneling.pdf, id=1068, 742.775pt x 346.09299pt>
+File: tunneling.pdf Graphic file (type pdf)
+
+<use tunneling.pdf>
+Package pdftex.def Info: tunneling.pdf used on input line 1002.
+(pdftex.def)             Requested size: 284.52756pt x 132.57816pt.
+ [45pdfTeX warning (ext4): destination with the same identifier (name{equation.
+4.3.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1014 \eea
+           pdfTeX warning (ext4): destination with the same identifier (name{eq
+uation.4.3.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1014 \eea
+           ]
+<Cens_nanomanipulation3d_Trixler.jpg, id=1078, 640.3925pt x 446.66875pt>
+File: Cens_nanomanipulation3d_Trixler.jpg Graphic file (type jpg)
+
+<use Cens_nanomanipulation3d_Trixler.jpg>
+Package pdftex.def Info: Cens_nanomanipulation3d_Trixler.jpg used on input line
+ 1019.
+(pdftex.def)             Requested size: 426.79134pt x 297.68527pt.
+ [46 <./tunneling.pdf>] [47 <./Cens_nanomanipulation3d_Trixler.jpg>] [48
+
+]
+Chapter 5.
+[49]
+Package marginnote Info: Margin note 56.1 is on absolute page 57
+(marginnote)              on input line 1082.
+Package marginnote Info: xpos seems to be 284.80052pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1082.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1082.
+
+[50] [51] <Pauli.jpg, id=1119, 160.6pt x 228.855pt>
+File: Pauli.jpg Graphic file (type jpg)
+ <use Pauli.jpg>
+Package pdftex.def Info: Pauli.jpg used on input line 1098.
+(pdftex.def)             Requested size: 160.5996pt x 228.85443pt.
+Missing character: There is no â in font cmss8!
+Missing character: There is no € in font cmss8!
+Missing character: There is no ™ in font cmss8!
+ [52 <./Pauli.jpg>]
+Package marginnote Info: Margin note 59.1 is on absolute page 59
+(marginnote)              on input line 1117.
+Package marginnote Info: xpos seems to be 433.61998pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1117.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1117.
+
+Package marginnote Info: Margin note 59.2 is on absolute page 59
+(marginnote)              on input line 1122.
+Package marginnote Info: xpos seems to be 373.45819pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1122.
+
+Package xcolor Warning: Incompatible color definition on input line 1122.
+
+Package marginnote Info: Margin note 59.3 is on absolute page 59
+(marginnote)              on input line 1129.
+Package marginnote Info: xpos seems to be 391.90906pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1129.
+
+Package xcolor Warning: Incompatible color definition on input line 1129.
+
+[53]
+Package marginnote Info: Margin note 60.1 is on absolute page 60
+(marginnote)              on input line 1158.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1158.
+
+Package marginnote Info: xpos seems to be 407.27052pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1158.
+[54] <Fermi.jpg, id=1148, 160.6pt x 198.7425pt>
+File: Fermi.jpg Graphic file (type jpg)
+ <use Fermi.jpg>
+Package pdftex.def Info: Fermi.jpg used on input line 1179.
+(pdftex.def)             Requested size: 160.5996pt x 198.742pt.
+ [55 <./Fermi.jpg>]
+Package marginnote Info: Margin note 62.1 is on absolute page 62
+(marginnote)              on input line 1206.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1206.
+
+Package marginnote Info: xpos seems to be 400.1564pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1206.
+[56]
+Package marginnote Info: Margin note 63.1 is on absolute page 63
+(marginnote)              on input line 1216.
+Package marginnote Info: xpos seems to be 305.41882pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1216.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1216.
+
+<fermi_dirac.pdf, id=1168, 614.295pt x 794.97pt>
+File: fermi_dirac.pdf Graphic file (type pdf)
+ <use fermi_dirac.pdf>
+Package pdftex.def Info: fermi_dirac.pdf used on input line 1237.
+(pdftex.def)             Requested size: 284.52756pt x 368.21373pt.
+
+Underfull \hbox (badness 7203) in paragraph at lines 1238--1238
+[]\OT1/cmr/bx/n/10 Figure 5.1 |\OT1/cmr/m/n/10 Fermi-Dirac dis-tri-bu-tion for 
+tem-per-a-tures $\OML/cmm/m/it/10 T \OT1/cmr/m/n/10 = 
+ []
+
+[57] [58 <./fermi_dirac.pdf>] [59] [60
+
+]
+<Anna4_smj.jpg, id=1203, 1027.84pt x 718.685pt>
+File: Anna4_smj.jpg Graphic file (type jpg)
+ <use Anna4_smj.jpg>
+Package pdftex.def Info: Anna4_smj.jpg used on input line 1296.
+(pdftex.def)             Requested size: 398.33858pt x 278.53142pt.
+ [61 <./Anna4_smj.jpg>] [62]
+Chapter 6.
+Package marginnote Info: Margin note 69.1 is on absolute page 70
+(marginnote)              on input line 1331.
+
+Package xcolor Warning: Incompatible color definition on input line 1331.
+
+Package marginnote Info: xpos seems to be 380.78072pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1331.
+[63
+
+]
+Package marginnote Info: Margin note 70.1 is on absolute page 70
+(marginnote)              on input line 1338.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1338.
+
+Package marginnote Info: xpos seems to be 385.13974pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1338.
+Package marginnote Info: Margin note 70.2 is on absolute page 70
+(marginnote)              on input line 1349.
+
+Package xcolor Warning: Incompatible color definition on input line 1349.
+
+Package marginnote Info: xpos seems to be 422.08125pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1349.
+Package marginnote Info: Margin note 70.3 is on absolute page 70
+(marginnote)              on input line 1360.
+
+Package xcolor Warning: Incompatible color definition on input line 1360.
+
+Package marginnote Info: xpos seems to be 398.48793pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1360.
+[64]
+Package marginnote Info: Margin note 71.1 is on absolute page 71
+(marginnote)              on input line 1394.
+Package marginnote Info: xpos seems to be 317.09138pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1394.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1394.
+
+[65] [66]
+Package marginnote Info: Margin note 73.1 is on absolute page 74
+(marginnote)              on input line 1448.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1448.
+
+Package marginnote Info: xpos seems to be 391.08029pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1448.
+[67] [68]
+Package marginnote Info: Margin note 75.1 is on absolute page 75
+(marginnote)              on input line 1485.
+Package marginnote Info: xpos seems to be 310.45326pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1485.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1485.
+
+[69]
+Package marginnote Info: Margin note 76.1 is on absolute page 76
+(marginnote)              on input line 1538.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1538.
+
+Package marginnote Info: xpos seems to be 430.03426pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1538.
+Package marginnote Info: Margin note 76.2 is on absolute page 77
+(marginnote)              on input line 1546.
+Package marginnote Info: xpos seems to be 301.6616pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1546.
+
+Package xcolor Warning: Incompatible color definition on input line 1546.
+
+Package marginnote Info: Margin note 76.3 is on absolute page 77
+(marginnote)              on input line 1551.
+Package marginnote Info: xpos seems to be 286.69415pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1551.
+
+Package xcolor Warning: Incompatible color definition on input line 1551.
+
+[70]
+Overfull \vbox (1.91714pt too high) has occurred while \output is active []
+
+
+[71]
+Package marginnote Info: Margin note 78.1 is on absolute page 78
+(marginnote)              on input line 1618.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1618.
+
+Package marginnote Info: xpos seems to be 447.30205pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1618.
+[72] [73] [74] [75]
+Package marginnote Info: Margin note 82.1 is on absolute page 82
+(marginnote)              on input line 1759.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1759.
+
+Package marginnote Info: xpos seems to be 431.98497pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1759.
+Package marginnote Info: Margin note 82.2 is on absolute page 82
+(marginnote)              on input line 1770.
+
+Package xcolor Warning: Incompatible color definition on input line 1770.
+
+Package marginnote Info: xpos seems to be 387.49529pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1770.
+[76] [77] [78
+
+]
+Chapter 7.
+[79] [80] [81] [82] [83]
+Package marginnote Info: Margin note 90.1 is on absolute page 90
+(marginnote)              on input line 1937.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1937.
+
+Package marginnote Info: xpos seems to be 476.38655pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1937.
+[84]
+Package marginnote Info: Margin note 91.1 is on absolute page 91
+(marginnote)              on input line 1981.
+Package marginnote Info: xpos seems to be 362.86955pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1981.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1981.
+
+[85]
+Package marginnote Info: Margin note 92.1 is on absolute page 92
+(marginnote)              on input line 1996.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1996.
+
+Package marginnote Info: xpos seems to be 360.2008pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 1996.
+Package marginnote Info: Margin note 92.2 is on absolute page 92
+(marginnote)              on input line 2004.
+
+Package xcolor Warning: Incompatible color definition on input line 2004.
+
+Package marginnote Info: xpos seems to be 399.13608pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2004.
+[86] [87]
+Package marginnote Info: Margin note 94.1 is on absolute page 94
+(marginnote)              on input line 2053.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2053.
+
+Package marginnote Info: xpos seems to be 434.34218pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2053.
+[88]
+Package marginnote Info: Margin note 95.1 is on absolute page 95
+(marginnote)              on input line 2126.
+Package marginnote Info: xpos seems to be 285.43144pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2126.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2126.
+
+[89] [90]
+Chapter 8.
+Package marginnote Info: Margin note 97.1 is on absolute page 97
+(marginnote)              on input line 2192.
+Package marginnote Info: xpos seems to be 312.03525pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2192.
+
+Package xcolor Warning: Incompatible color definition on input line 2192.
+
+[91
+
+]
+Package marginnote Info: Margin note 98.1 is on absolute page 98
+(marginnote)              on input line 2211.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2211.
+
+Package marginnote Info: xpos seems to be 409.31029pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2211.
+Package marginnote Info: Margin note 98.2 is on absolute page 98
+(marginnote)              on input line 2228.
+
+Package xcolor Warning: Incompatible color definition on input line 2228.
+
+Package marginnote Info: xpos seems to be 439.78426pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2228.
+[92]
+Package marginnote Info: Margin note 99.1 is on absolute page 99
+(marginnote)              on input line 2243.
+Package marginnote Info: xpos seems to be 318.44115pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2243.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2243.
+
+Package marginnote Info: Margin note 99.2 is on absolute page 99
+(marginnote)              on input line 2248.
+Package marginnote Info: xpos seems to be 294.92685pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2248.
+
+Package xcolor Warning: Incompatible color definition on input line 2248.
+
+Package marginnote Info: Margin note 99.3 is on absolute page 100
+(marginnote)              on input line 2260.
+
+Package xcolor Warning: Incompatible color definition on input line 2260.
+
+Package marginnote Info: xpos seems to be 427.80003pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2260.
+[93] [94]
+Package marginnote Info: Margin note 101.1 is on absolute page 101
+(marginnote)              on input line 2294.
+Package marginnote Info: xpos seems to be 300.24478pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2294.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2294.
+
+Package marginnote Info: Margin note 101.2 is on absolute page 101
+(marginnote)              on input line 2299.
+Package marginnote Info: xpos seems to be 273.16785pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2299.
+
+Package xcolor Warning: Incompatible color definition on input line 2299.
+
+[95] [96] [97] [98] <Anna2_smj.jpg, id=1530, 123.5467pt x 172.53105pt>
+File: Anna2_smj.jpg Graphic file (type jpg)
+
+<use Anna2_smj.jpg>
+Package pdftex.def Info: Anna2_smj.jpg used on input line 2392.
+(pdftex.def)             Requested size: 341.43306pt x 476.86273pt.
+
+Overfull \vbox (3.3593pt too high) has occurred while \output is active []
+
+
+[99
+
+ <./Anna2_smj.jpg>] [100]
+Chapter 9.
+<pyrite_cubesj.jpg, id=1541, 802.9197pt x 534.798pt>
+File: pyrite_cubesj.jpg Graphic file (type jpg)
+ <use pyrite_cubesj.jpg>
+Package pdftex.def Info: pyrite_cubesj.jpg used on input line 2401.
+(pdftex.def)             Requested size: 398.33858pt x 265.31744pt.
+
+Overfull \hbox (36.98859pt too wide) in paragraph at lines 2401--2401
+ [][] 
+ []
+
+[101
+
+]
+Package marginnote Info: Margin note 108.1 is on absolute page 108
+(marginnote)              on input line 2411.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2411.
+
+Package marginnote Info: xpos seems to be 432.71127pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2411.
+<bravais_2d.pdf, id=1550, 803.0pt x 534.99875pt>
+File: bravais_2d.pdf Graphic file (type pdf)
+ <use bravais_2d.pdf>
+Package pdftex.def Info: bravais_2d.pdf used on input line 2419.
+(pdftex.def)             Requested size: 398.33858pt x 265.40071pt.
+
+Overfull \hbox (36.98859pt too wide) in paragraph at lines 2419--2419
+ [][] 
+ []
+
+[102 <./pyrite_cubesj.jpg>]
+<bcc_both_side.png, id=1559, 296.307pt x 709.6914pt>
+File: bcc_both_side.png Graphic file (type png)
+ <use bcc_both_side.png>
+Package pdftex.def Info: bcc_both_side.png used on input line 2433.
+(pdftex.def)             Requested size: 144.54pt x 346.19244pt.
+
+[103 <./bravais_2d.pdf>] <fcc2.pdf, id=1576, 320.39702pt x 281.85298pt>
+File: fcc2.pdf Graphic file (type pdf)
+
+<use fcc2.pdf>
+Package pdftex.def Info: fcc2.pdf used on input line 2451.
+(pdftex.def)             Requested size: 227.62204pt x 200.24173pt.
+ <Wigner.jpg, id=1579, 160.6pt x 226.8475pt>
+File: Wigner.jpg Graphic file (type jpg)
+ <use Wigner.jpg>
+Package pdftex.def Info: Wigner.jpg used on input line 2468.
+(pdftex.def)             Requested size: 160.5996pt x 226.84694pt.
+
+[104 <./bcc_both_side.png>] <ws_2d2.pdf, id=1593, 662.475pt x 732.7375pt>
+File: ws_2d2.pdf Graphic file (type pdf)
+
+<use ws_2d2.pdf>
+Package pdftex.def Info: ws_2d2.pdf used on input line 2473.
+(pdftex.def)             Requested size: 284.52756pt x 314.70203pt.
+ [105 <./fcc2.pdf> <./Wigner.jpg>] [106 <./ws_2d2.pdf>]
+Package marginnote Info: Margin note 113.1 is on absolute page 113
+(marginnote)              on input line 2496.
+Package marginnote Info: xpos seems to be 274.32117pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2496.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2496.
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 2535--2537
+
+ []
+
+<bcc_fcc_bz.png, id=1723, 539.57977pt x 1086.76692pt>
+File: bcc_fcc_bz.png Graphic file (type png)
+ <use bcc_fcc_bz.png>
+Package pdftex.def Info: bcc_fcc_bz.png used on input line 2541.
+(pdftex.def)             Requested size: 144.54pt x 291.1094pt.
+
+[108 <./bcc_fcc_bz.png (PNG copy)>]
+Chapter 10.
+Package marginnote Info: Margin note 115.1 is on absolute page 115
+(marginnote)              on input line 2562.
+Package marginnote Info: xpos seems to be 293.56728pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2562.
+
+Package xcolor Warning: Incompatible color definition on input line 2562.
+
+[109
+
+]
+Package marginnote Info: Margin note 116.1 is on absolute page 116
+(marginnote)              on input line 2574.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2574.
+
+Package marginnote Info: xpos seems to be 421.09488pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2574.
+Package marginnote Info: Margin note 116.2 is on absolute page 116
+(marginnote)              on input line 2579.
+
+Package xcolor Warning: Incompatible color definition on input line 2579.
+
+Package marginnote Info: xpos seems to be 408.88603pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2579.
+<Bloch.jpg, id=1740, 160.6pt x 201.75375pt>
+File: Bloch.jpg Graphic file (type jpg)
+ <use Bloch.jpg>
+Package pdftex.def Info: Bloch.jpg used on input line 2592.
+(pdftex.def)             Requested size: 160.5996pt x 201.75325pt.
+ [110] [111 <./Bloch.jpg>] [112] [113] [114]
+Overfull \hbox (138.5151pt too wide) in paragraph at lines 2697--2714
+[] 
+ []
+
+<kronig_penney.pdf, id=1791, 560.81517pt x 252.945pt>
+File: kronig_penney.pdf Graphic file (type pdf)
+ <use kronig_penney.pdf>
+Package pdftex.def Info: kronig_penney.pdf used on input line 2727.
+(pdftex.def)             Requested size: 426.79134pt x 192.49493pt.
+
+Overfull \hbox (65.44135pt too wide) in paragraph at lines 2727--2728
+ [][] 
+ []
+
+[115] [116 <./kronig_penney.pdf>]
+<KP_allowed_energies.pdf, id=1815, 578.16pt x 386.44376pt>
+File: KP_allowed_energies.pdf Graphic file (type pdf)
+
+<use KP_allowed_energies.pdf>
+Package pdftex.def Info: KP_allowed_energies.pdf used on input line 2779.
+(pdftex.def)             Requested size: 426.79134pt x 285.2681pt.
+
+Overfull \hbox (65.44135pt too wide) in paragraph at lines 2779--2780
+ [][] 
+ []
+
+<zones_ext.pdf, id=1817, 578.16pt x 400.49625pt>
+File: zones_ext.pdf Graphic file (type pdf)
+ <use zones_ext.pdf>
+Package pdftex.def Info: zones_ext.pdf used on input line 2786.
+(pdftex.def)             Requested size: 426.79134pt x 295.64148pt.
+
+Overfull \hbox (65.44135pt too wide) in paragraph at lines 2786--2787
+ [][] 
+ []
+
+[117] [118 <./KP_allowed_energies.pdf>] [119 <./zones_ext.pdf>] [120
+
+]
+Chapter 11.
+<zones_ext_red.png, id=1883, 578.16pt x 801.9pt>
+File: zones_ext_red.png Graphic file (type png)
+ <use zones_ext_red.png>
+Package pdftex.def Info: zones_ext_red.png used on input line 2802.
+(pdftex.def)             Requested size: 144.54pt x 200.4745pt.
+
+[121 <./zones_ext_red.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2809--2823
+
+ []
+
+[122] <insmetal.png, id=1896, 1734.48pt x 393.8715pt>
+File: insmetal.png Graphic file (type png)
+ <use insmetal.png>
+Package pdftex.def Info: insmetal.png used on input line 2826.
+(pdftex.def)             Requested size: 426.79134pt x 96.91705pt.
+
+Overfull \hbox (65.44135pt too wide) in paragraph at lines 2826--2827
+ [][] 
+ []
+
+[123 <./insmetal.png>]
+<optical_absorptions.png, id=1904, 1530.6786pt x 495.0495pt>
+File: optical_absorptions.png Graphic file (type png)
+
+<use optical_absorptions.png>
+Package pdftex.def Info: optical_absorptions.png used on input line 2844.
+(pdftex.def)             Requested size: 426.79134pt x 138.03127pt.
+
+Overfull \hbox (65.44135pt too wide) in paragraph at lines 2844--2845
+ [][] 
+ []
+
+[124] [125 <./optical_absorptions.png (PNG copy)>] [126]
+Chapter 12.
+<Drude.jpg, id=1918, 160.6pt x 220.825pt>
+File: Drude.jpg Graphic file (type jpg)
+ <use Drude.jpg>
+Package pdftex.def Info: Drude.jpg used on input line 2875.
+(pdftex.def)             Requested size: 160.5996pt x 220.82445pt.
+
+Overfull \hbox (6.90506pt too wide) in paragraph at lines 2881--2882
+\OT1/cmr/m/n/10.95 elec-trons be-come de-tached and wan-der freely through the 
+metal, whereas
+ []
+
+[127
+
+ <./Drude.jpg>] [128]
+Package marginnote Info: Margin note 135.1 is on absolute page 135
+(marginnote)              on input line 2893.
+Package marginnote Info: xpos seems to be 270.49509pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2893.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2893.
+
+Package marginnote Info: Margin note 135.2 is on absolute page 135
+(marginnote)              on input line 2914.
+Package marginnote Info: xpos seems to be 263.61278pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2914.
+
+Package xcolor Warning: Incompatible color definition on input line 2914.
+
+<Edwin_Hall.jpg, id=1930, 160.6pt x 240.9pt>
+File: Edwin_Hall.jpg Graphic file (type jpg)
+ <use Edwin_Hall.jpg>
+Package pdftex.def Info: Edwin_Hall.jpg used on input line 2918.
+(pdftex.def)             Requested size: 160.5996pt x 240.8994pt.
+ [129]
+<Hall2.pdf, id=1943, 547.80661pt x 261.61742pt>
+File: Hall2.pdf Graphic file (type pdf)
+ <use Hall2.pdf>
+Package pdftex.def Info: Hall2.pdf used on input line 2926.
+(pdftex.def)             Requested size: 341.43306pt x 163.06337pt.
+Package marginnote Info: Margin note 136.1 is on absolute page 136
+(marginnote)              on input line 2937.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2937.
+
+Package marginnote Info: xpos seems to be 387.94934pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2937.
+[130 <./Edwin_Hall.jpg>] [131 <./Hall2.pdf>]
+Package marginnote Info: Margin note 138.1 is on absolute page 138
+(marginnote)              on input line 2974.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2974.
+
+Package marginnote Info: xpos seems to be 354.37802pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2974.
+Package marginnote Info: Margin note 138.2 is on absolute page 138
+(marginnote)              on input line 2984.
+
+Package xcolor Warning: Incompatible color definition on input line 2984.
+
+Package marginnote Info: xpos seems to be 384.94968pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 2984.
+[132]
+Chapter 13.
+
+Overfull \hbox (1.63925pt too wide) in paragraph at lines 2991--2992
+[][]\OT1/cmr/m/n/10.95 've had a chal-leng-ing one-semester jour-ney through so
+me
+ []
+
+
+Overfull \vbox (0.93051pt too high) has occurred while \output is active []
+
+
+[133
+
+] [134] [135]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3033.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3033.
+ (./LectureNotes.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3033.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3033.
+
+Package rerunfilecheck Info: File `LectureNotes.out' has not changed.
+(rerunfilecheck)             Checksum: 3EF5A6F3A5478CB78BA1C389C0A78268;9003.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3033.
+
+Overfull \hbox (132.462pt too wide) in paragraph at lines 54--3033
+[]\OT1/cmr/m/n/10.95 spsp spsp  spsp spsp   spsp spsp  spsp spsp               
+                                                                               
+              spsp
+ []
+
+
+Overfull \hbox (474.8654pt too wide) in paragraph at lines 54--3033
+\OT1/cmr/m/n/10.95 spsp  spsp spsp                                             
+                                                                               
+                                                                               
+                                                                               
+                                  
+ []
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19831 strings out of 493014
+ 323250 string characters out of 6133351
+ 531115 words of memory out of 5000000
+ 22371 multiletter control sequences out of 15000+600000
+ 32982 words of font info for 130 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,15n,83p,1442b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/initials/MorrisIn.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msbm5.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on LectureNotes.pdf (141 pages, 4089477 bytes).
+PDF statistics:
+ 2214 PDF objects out of 2487 (max. 8388607)
+ 1881 compressed objects within 19 object streams
+ 629 named destinations out of 1000 (max. 500000)
+ 1156 words of extra memory for PDF output out of 10000 (max. 10000000)
+
